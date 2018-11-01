@@ -1,0 +1,6 @@
+>>> a=75
+>>> b=28
+>>> addi=75+28
+>>> print ("addition between",a,"and",b,"is",addi)
+addition between 75 and 28 is 103
+>>> 
