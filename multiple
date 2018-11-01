@@ -1,0 +1,6 @@
+>>> a=47
+>>> b=35
+>>> mul=47*35
+>>> print ("multiple between",a,"and",b,"is",mul)
+multiple between 47 and 35 is 1645
+>>> 
