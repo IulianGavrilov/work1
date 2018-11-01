@@ -1,0 +1,6 @@
+>>> a=38
+>>> b=4
+>>> div=38/4
+>>> print ("divide betwen" ,a,"and",b,"is",div)
+divide betwen 38 and 4 is 9.5
+>>> 
