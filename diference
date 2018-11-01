@@ -1,6 +1,0 @@
->>> a=23
->>> b=15
->>> dif=a-b
->>> print ("diference between",a,"and",b,"is", dif)
-diference between 23 and 15 is 8
->>> 
